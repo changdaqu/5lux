@@ -16,6 +16,9 @@ var cssnano = require('gulp-cssnano');
 // 引入sass预编译
 var sass = require('gulp-sass');
 
+// 引入img
+// var imgs = require('gulp-imagemin');
+
 
 
 // *****浏览器同步
@@ -54,7 +57,7 @@ gulp.task('js',function(){
 gulp.task('style',function(){
     gulp.src('src/css/**/*.scss')
     .pipe(sass().on('error', sass.logError))
-    // .pipe(cssnano())
+    .pipe(cssnano())
     .pipe(gulp.dest('dist/css'))
     // *****
     .pipe(browserSync.reload({
@@ -62,12 +65,12 @@ gulp.task('style',function(){
     }))
 });
 
-// 第四个任务,图片压缩
-gulp.task('imgs',function(){
-    gulp.src('src/images/*.jpg')
-    .pipe(imgmin())
-    .pipe(gulp.dest('dist/images'))
-});
+// // 第四个任务,图片压缩
+// gulp.task('imgs',function(){
+//     gulp.src('src/images/*.{png,jpg,gif,ico}')
+//     .pipe(imagemin())
+//     .pipe(gulp.dest('dist/images/'))
+// });
 
 
 // 第五个任务,浏览器自动刷新

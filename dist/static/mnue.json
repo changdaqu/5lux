@@ -1,0 +1,110 @@
+{
+	"hot":[
+		{
+			"name":"Burberry",
+			"brand":"巴宝莉",
+			"price":"￥ 3199",
+			"src":"http://img550.5lux.com.cn/2017/01/03/kl/148343494318_800x800.jpg"
+		},
+		{
+			"name":"Cherry Chau",
+			"brand":"Cherry Chau",
+			"price":"￥ 950",
+			"src":"http://img550.5lux.com.cn/2016/09/14/kl/147382523912_800x800.jpg"
+		},
+		{
+			"name":"Fendi",
+			"brand":"芬迪",
+			"price":"￥ 13329",
+			"src":"http://img550.5lux.com.cn/2017/10/25/bc/150891811336_1320x1320_800x800.jpg"
+		},
+		{
+			"name":"Valentino",
+			"brand":"瓦伦蒂诺",
+			"price":"￥ 11157",
+			"src":"http://img550.5lux.com.cn/2017/10/24/tu/150880045985_384x580_800x800.jpg"
+		},
+		{
+			"name":"ALESSANDRO",
+			"brand":" GILLES",
+			"price":"￥ 3619",
+			"src":"http://img550.5lux.com.cn/2017/10/25/np/150892077672_1571x2000.JPG"
+		},
+		{
+			"name":"U Jewelry",
+			"brand":"优集",
+			"price":"￥ 288",
+			"src":"http://img550.5lux.com.cn/2017/10/24/jk/150883518787_800x800.JPG"
+		}
+	],
+	"newP":[
+		{
+			"name":"JUST CAVALLI",
+			"brand":"加斯特.卡沃利",
+			"price":"￥ 2719",
+			"src":"http://img550.5lux.com.cn/2017/10/24/lm/150881148610_1571x2000.JPG"
+		},
+		{
+			"name":"Miu Miu",
+			"brand":"缪缪",
+			"price":"￥ 15505",
+			"src":"http://img550.5lux.com.cn/2017/09/09/ij/150491362723_1320x1320_800x800.jpg"
+		},
+		{
+			"name":"MP MASSIMO",
+			"brand":"PIOMBO",
+			"price":"￥ 1569",
+			"src":"http://img550.5lux.com.cn/2017/10/24/pq/150883671178_1571x2000.JPG"
+		},
+		{
+			"name":"Tiffany & Co.",
+			"brand":"蒂芙尼",
+			"price":"￥ 12096",
+			"src":"http://img550.5lux.com.cn/2017/10/09/jk/150753447460_800x800.jpg"
+		},
+		{
+			"name":"Giorgio Armani",
+			"brand":"乔治·阿玛尼",
+			"price":"￥ 819",
+			"src":"http://img550.5lux.com.cn/2017/10/24/ef/150883703316_1320x1320_800x800.jpg"
+		},
+		{
+			"name":"CosBeauty",
+			"brand":"可思美",
+			"price":"￥ 3880",
+			"src":"http://img550.5lux.com.cn/2017/10/16/kl/150811990736_800x800.jpg"
+		}
+	],
+	"same":[
+		{
+			"name":"新官网明星同款",
+			"brand":"Moschino莫斯奇诺",
+			"content":"宋祖儿同款 小飞马包包",
+			"src":"http://img550.5lux.com.cn/2017/10/24/ef/150883861710_398x517.jpg"
+		},
+		{
+			"name":"明星同款",
+			"brand":"Gucci古驰",
+			"content":"杨蓉同款  Sylvie系列 芙蓉红迷你单肩包",
+			"src":"http://img550.5lux.com.cn/2017/10/19/pq/150840608979_398x255.png"
+		},
+		{
+			"name":"明星同款",
+			"brand":"RE/DONE",
+			"content":"景甜同款 ORIGINALS HARD 短款连帽衫",
+			"src":"http://img550.5lux.com.cn/2017/10/17/np/150820771274_398x255.jpg"
+		},
+		{
+			"name":"明星同款",
+			"brand":"Oscar de la Renta",
+			"content":"刘亦菲同款  Blazer",
+			"src":"http://img550.5lux.com.cn/2017/10/17/kl/150820771172_398x255.jpg"
+		},
+		{
+			"name":"明星同款",
+			"brand":"Versace范思哲",
+			"content":"林志玲同款  Versace Clothing Spring/Summer 2017",
+			"src":"http://img550.5lux.com.cn/2017/10/16/rs/150814708888_398x255.jpg"
+		}
+	]
+}

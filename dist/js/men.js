@@ -1,0 +1,1 @@
+require.config({paths:{jquery:"../libs/jquery",head:"head"}}),require(["jquery","head"],function(e,i){i.head(),e(".top").click(function(){e("html,body").stop().animate({scrollTop:"0px"},300)})});
